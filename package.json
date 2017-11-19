@@ -1,7 +1,7 @@
 {
   "name": "sfUI",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A UI plugin for vue",
   "author": "",
   "private": true,
   "scripts": {
