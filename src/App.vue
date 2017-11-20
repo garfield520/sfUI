@@ -5,6 +5,7 @@
     <div>
       <sf-button>default</sf-button>
       <sf-button type="success">success</sf-button>
+      <sf-button type="danger">danger</sf-button>
     </div>
   </div>
 </template>
