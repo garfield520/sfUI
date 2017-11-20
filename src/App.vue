@@ -6,8 +6,8 @@
       <sf-button>default</sf-button>
       <sf-button type="success">success</sf-button>
       <sf-button type="danger">danger</sf-button>
-      <sf-button type="info">danger</sf-button>
-      <sf-button type="warning">danger</sf-button>
+      <sf-button type="info">info</sf-button>
+      <sf-button type="warning">warning</sf-button>
     </div>
   </div>
 </template>
